@@ -3,3 +3,4 @@ python:3.10-slim-bookworm
 node:18.19.1-alpine3.19
 python:3.11.7-slim-bookworm
 emqx/emqx:5.7.1
+mongodb/mongodb-community-server:latest
