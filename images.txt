@@ -5,3 +5,4 @@ python:3.11.7-slim-bookworm
 emqx/emqx:5.7.1
 mongodb/mongodb-community-server:latest
 openjdk:8-jdk
+minio/minio:latest
