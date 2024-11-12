@@ -6,3 +6,4 @@ emqx/emqx:5.7.1
 mongodb/mongodb-community-server:latest
 openjdk:8-jdk
 minio/minio:latest
+redis:7.0
