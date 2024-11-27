@@ -7,3 +7,4 @@ mongodb/mongodb-community-server:latest
 openjdk:8-jdk
 minio/minio:latest
 redis:7.0
+tiangolo/nginx-rtmp
