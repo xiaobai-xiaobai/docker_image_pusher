@@ -9,3 +9,4 @@ minio/minio:latest
 redis:7.0
 tiangolo/nginx-rtmp
 openjdk:17.0.2-jdk
+sjrjusblack/jdk-ffmpeg:17-jdk-alpine
