@@ -9,6 +9,6 @@ minio/minio:latest
 redis:7.0
 tiangolo/nginx-rtmp
 openjdk:17.0.2-jdk
-openjdk:17.0.2-oraclelinux
+openjdk:17.0.2-oraclelinux8
 sjrjusblack/jdk-ffmpeg:17-jdk-alpine
 mysql:8.0.22
