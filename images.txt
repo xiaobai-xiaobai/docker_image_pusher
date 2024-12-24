@@ -13,3 +13,4 @@ openjdk:17.0.2-oraclelinux8
 sjrjusblack/jdk-ffmpeg:17-jdk-alpine
 mysql:8.0.22
 ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
