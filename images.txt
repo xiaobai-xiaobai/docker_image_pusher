@@ -16,3 +16,4 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 debian:bookworm-slim
 searxng/searxng:latest
+certbot/certbot
