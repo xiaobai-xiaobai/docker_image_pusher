@@ -18,3 +18,4 @@ debian:bookworm-slim
 searxng/searxng:latest
 certbot/certbot
 sandai/magi:latest
+rabbitmq:3.13.7-management-alpine
