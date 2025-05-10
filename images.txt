@@ -20,3 +20,4 @@ certbot/certbot
 sandai/magi:latest
 rabbitmq:3.13.7-management-alpine
 postgres:16.8
+nacos/nacos-server:v2.2.0
