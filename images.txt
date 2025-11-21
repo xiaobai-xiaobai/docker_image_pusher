@@ -21,6 +21,4 @@ sandai/magi:latest
 rabbitmq:3.13.7-management-alpine
 postgres:16.8
 nacos/nacos-server:v2.2.0
-openjdk:8u201-jre-alpine
-anapsix/alpine-java:8_server-jre_unlimited
 rabbitmq:3.13.7-management
