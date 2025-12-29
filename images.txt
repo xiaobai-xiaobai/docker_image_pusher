@@ -1,1 +1,2 @@
 rabbitmq:3.13.7-management
+tdengine/tdengine:latest
