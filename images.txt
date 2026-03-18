@@ -1,1 +1,3 @@
-weejewel/wg-easy
+oven/bun:latest
+golang:alpine
+debian:bookworm-slim
