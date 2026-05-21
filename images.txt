@@ -1,3 +1,2 @@
-oven/bun:latest
-golang:alpine
-debian:bookworm-slim
+groovy:4.0-jdk17-alpine
+python:3.11-alpine
