@@ -1,2 +1,1 @@
-groovy:4.0-jdk17-alpine
-python:3.11-alpine
+pgvector/pgvector:pg16
