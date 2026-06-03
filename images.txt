@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+xpzouying/xiaohongshu-mcp:latest
